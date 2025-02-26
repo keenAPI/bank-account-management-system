@@ -1,0 +1,14 @@
+C:\Users\Sprinter 11\OneDrive - redAcademy (Pty) Ltd\Desktop\C#_Practice\BankAccountManagement\BankAccountManagement\bin\Debug\net9.0\BankAccountManagement.exe
+C:\Users\Sprinter 11\OneDrive - redAcademy (Pty) Ltd\Desktop\C#_Practice\BankAccountManagement\BankAccountManagement\bin\Debug\net9.0\BankAccountManagement.deps.json
+C:\Users\Sprinter 11\OneDrive - redAcademy (Pty) Ltd\Desktop\C#_Practice\BankAccountManagement\BankAccountManagement\bin\Debug\net9.0\BankAccountManagement.runtimeconfig.json
+C:\Users\Sprinter 11\OneDrive - redAcademy (Pty) Ltd\Desktop\C#_Practice\BankAccountManagement\BankAccountManagement\bin\Debug\net9.0\BankAccountManagement.dll
+C:\Users\Sprinter 11\OneDrive - redAcademy (Pty) Ltd\Desktop\C#_Practice\BankAccountManagement\BankAccountManagement\bin\Debug\net9.0\BankAccountManagement.pdb
+C:\Users\Sprinter 11\OneDrive - redAcademy (Pty) Ltd\Desktop\C#_Practice\BankAccountManagement\BankAccountManagement\obj\Debug\net9.0\BankAccountManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sprinter 11\OneDrive - redAcademy (Pty) Ltd\Desktop\C#_Practice\BankAccountManagement\BankAccountManagement\obj\Debug\net9.0\BankAccountManagement.AssemblyInfoInputs.cache
+C:\Users\Sprinter 11\OneDrive - redAcademy (Pty) Ltd\Desktop\C#_Practice\BankAccountManagement\BankAccountManagement\obj\Debug\net9.0\BankAccountManagement.AssemblyInfo.cs
+C:\Users\Sprinter 11\OneDrive - redAcademy (Pty) Ltd\Desktop\C#_Practice\BankAccountManagement\BankAccountManagement\obj\Debug\net9.0\BankAccountManagement.csproj.CoreCompileInputs.cache
+C:\Users\Sprinter 11\OneDrive - redAcademy (Pty) Ltd\Desktop\C#_Practice\BankAccountManagement\BankAccountManagement\obj\Debug\net9.0\BankAccountManagement.dll
+C:\Users\Sprinter 11\OneDrive - redAcademy (Pty) Ltd\Desktop\C#_Practice\BankAccountManagement\BankAccountManagement\obj\Debug\net9.0\refint\BankAccountManagement.dll
+C:\Users\Sprinter 11\OneDrive - redAcademy (Pty) Ltd\Desktop\C#_Practice\BankAccountManagement\BankAccountManagement\obj\Debug\net9.0\BankAccountManagement.pdb
+C:\Users\Sprinter 11\OneDrive - redAcademy (Pty) Ltd\Desktop\C#_Practice\BankAccountManagement\BankAccountManagement\obj\Debug\net9.0\BankAccountManagement.genruntimeconfig.cache
+C:\Users\Sprinter 11\OneDrive - redAcademy (Pty) Ltd\Desktop\C#_Practice\BankAccountManagement\BankAccountManagement\obj\Debug\net9.0\ref\BankAccountManagement.dll
